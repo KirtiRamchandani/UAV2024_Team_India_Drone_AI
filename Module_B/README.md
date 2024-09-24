@@ -1,3 +1,28 @@
+# Table of Contents
+
+1. [System Components](#system-components)
+   - [1. Traffic Light Localization](#1-traffic-light-localization)
+   - [2. Traffic Light Detection](#2-traffic-light-detection)
+   - [3. Traffic Light Recognition](#3-traffic-light-recognition)
+
+2. [Datasets Used](#datasets-used)
+
+3. [Detailed Description](#detailed-description)
+   - [Algorithms and Methods](#algorithms-and-methods)
+   - [Documentation Requirements](#documentation-requirements)
+
+4. [Detection in Traffic Light Recognition](#detection-in-traffic-light-recognition)
+   - [Use Cases and Requirements](#use-cases-and-requirements)
+   - [Role of the Detection Module](#role-of-the-detection-module)
+     - [Input and Output Specifications](#input-and-output-specifications)
+       - [Inputs](#inputs)
+       - [Outputs](#outputs)
+   - [Design Considerations](#design-considerations)
+
+5. [Design](#design)
+
+6. [Conclusion](#conclusion)
+
 ## System Components
 
 ### 1. Traffic Light Localization
@@ -32,10 +57,8 @@ The documentation will include:
 - Videos demonstrating the operation of the system in various scenarios, showcasing its effectiveness in real-world applications.
 
 ### Let's have a look at one of the implementation for better idea of Neural Network and how transformation tree works.
- 
-Before we proceed with the input and the results let's understand how the detection works in the code.
 
-# Detection in Traffic Light Recognition
+## Detection in Traffic Light Recognition
 
 Detection in Traffic Light Recognition is a critical component for ensuring the safe operation of autonomous vehicles at intersections. This module plays a vital role in interpreting traffic signals, enabling vehicles to make informed decisions based on real-time visual data.
 
@@ -82,16 +105,21 @@ Following this initial detection phase, a **Fine Detection** process refines the
 
 By integrating advanced detection techniques with real-time data processing capabilities, this module significantly contributes to the safety and efficiency of autonomous driving systems at intersections.
 
-# Design
+## Design
 
 The Detection module is designed to modularize various patterns for detecting the Region of Interest (ROI) of traffic lights. This modular approach enhances flexibility and allows for the integration of different detection strategies, ensuring robust performance in diverse traffic scenarios.
 
-{path/1.png}
+![Detection Module Architecture](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/blob/main/Module_B/1.png)
 
 The below one would tell how the implementation in the model would work:
 
-{path/2.png}
+![Implementation Details](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/blob/main/Module_B/2.png)
 
+## Neural Network Detection Output:
+
+![Output 1](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/blob/main/Module_B/Neural_Network_1/image/t1.png)
+
+![Output 2](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/blob/main/Module_B/Neural_Network_1/image/image_1949.png)
 
 ## Conclusion
 This system aims to enhance urban traffic management through efficient localization, detection, and recognition of traffic lights using state-of-the-art computer vision and AI technologies.
