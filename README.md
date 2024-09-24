@@ -9,7 +9,7 @@
 | Kirtikumar Anandrao Ramchandani      | Software Engineer              | AI Developer                |
 | Priyank Basrani                      | Electrical and Communications Engineer | Hardware Hacker            |
 
-### [Table of Contents](#table-of-contents)
+### Table of Contents
 - [Module 1](#module-1)
 - [Module 2](#module-2)
 - [Module 3](#module-3)
