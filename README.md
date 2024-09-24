@@ -25,7 +25,7 @@
 - [Dataset](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/tree/main/Module_B#datasets-used)
 - [Diagrams design](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/tree/main/Module_B#design)
 - [Neural Network 1 Training and results](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/tree/main/Module_B#neural-network-detection-output)
-- [Neural Network 2 Training and results]()
+- [Neural Network 2 Training and results](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/tree/main/Module_B/Neural_Network_2)
 
 ### Module 3
 Content for Module 3.
