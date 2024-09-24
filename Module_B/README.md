@@ -109,11 +109,11 @@ By integrating advanced detection techniques with real-time data processing capa
 
 The Detection module is designed to modularize various patterns for detecting the Region of Interest (ROI) of traffic lights. This modular approach enhances flexibility and allows for the integration of different detection strategies, ensuring robust performance in diverse traffic scenarios.
 
-![Detection Module Architecture](https://github.com/KirtiRamchandani/UAV2024/blob/main/Module_B/1.png)
+![Detection Module Architecture]([https://github.com/KirtiRamchandani/UAV2024/blob/main/Module_B/1.png](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/blob/14cb7d7c0579cf4c6f0f5c41a8d5fe828b217690/Module_B/1.png))
 
 The below one would tell how the implementation in the model would work:
 
-![Implementation Details](https://github.com/KirtiRamchandani/UAV2024/blob/main/Module_B/2.png)
+![Implementation Details]([https://github.com/KirtiRamchandani/UAV2024/blob/main/Module_B/2.png](https://github.com/KirtiRamchandani/UAV2024/blob/b22840408e2bde00adcceb30f0f23cf2f6f48ec1/Module_B/2.png))
 
 ## Neural Network Detection Output:
 
