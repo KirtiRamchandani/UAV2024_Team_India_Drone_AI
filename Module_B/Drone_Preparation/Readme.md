@@ -1,1 +1,0 @@
-Before the flight, let's prepare the drone and assemble it to make sure it is good to go!
