@@ -113,12 +113,13 @@ The Detection module is designed to modularize various patterns for detecting th
 
 The below one would tell how the implementation in the model would work:
 
-![Implementation Details](https://github.com/KirtiRamchandani/UAV2024/blob/main/Module_B/2.png)
+![Implementation Details](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/blob/main/Module_B/2.png)
 
 ## Neural Network Detection Output:
 
-![Output 1](https://github.com/KirtiRamchandani/UAV2024/blob/main/Module_B/Neural_Network_1/image/t1.png)
-![Output 2](https://github.com/KirtiRamchandani/UAV2024/blob/main/Module_B/Neural_Network_1/image/image_1949.png)
+![Output 1](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/blob/main/Module_B/Neural_Network_1/image/t1.png)
+
+![Output 2](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/blob/main/Module_B/Neural_Network_1/image/image_1949.png)
 
 ## Conclusion
 This system aims to enhance urban traffic management through efficient localization, detection, and recognition of traffic lights using state-of-the-art computer vision and AI technologies.
