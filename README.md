@@ -28,7 +28,9 @@
 - [Neural Network 2 Training and results](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/tree/main/Module_B/Neural_Network_2)
 
 ### Module 3
-Content for Module 3.
+- [Debugging Report using Fuzzers](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/tree/main/Module_C#debugging-report-for-fuzzer-implementation)
+- [Harness Development](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/tree/main/Module_C#harness-development)
+- [Test Program and Methodology](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/tree/main/Module_C#test-program-and-methodology)
 
 ### Module 4
 Content for Module 4.
