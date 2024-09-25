@@ -10,9 +10,8 @@ The fuzzer is designed to generate a vast number of test cases, similar to the A
 
 We will create a harness that accepts functions as input and generates numerous test cases. This harness will simulate the behavior of coverage-based fuzzing, allowing us to explore various execution paths within the code. The key steps in this process include:
 
-Function Selection: Identify the functions to be fuzzed.
-
-Test Case Generation: Use random inputs to create diverse test cases.
+- Function Selection: Identify the functions to be fuzzed.
+- Test Case Generation: Use random inputs to create diverse test cases.
 - Execution Monitoring: Track execution paths and outcomes to identify failures.
 
 Coverage-Based Fuzzing
