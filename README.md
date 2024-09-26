@@ -38,4 +38,5 @@
 - [Web Panel Preparation](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/blob/main/Module_D/README.md#web-panel-preparation)
 
 ### Module 5
-Content for Module 5.
+- [Final Model and Product Presentation](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/blob/main/Module_E/UAV%202024.pptx)
+- [Video for Detection and visualization of Traffic Lights using Neural Network in Drone **Real-Time**](https://github.com/KirtiRamchandani/UAV2024_Team_India_Drone_AI/blob/main/Module_E/NeuralNetwork.mp4)
